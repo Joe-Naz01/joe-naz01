@@ -7,3 +7,9 @@ DATA SCIENCE AND MACHINE LEARNING
    - [Fine Tuning](https://github.com/Joe-Naz01/fine_tuning_supervised)
 
 3. 
+
+
+LARGE LANGUAGE MODELS
+1. Deep Learning for Text with Pytorch
+   - [Basis of Deep Learning with Pytorch]
+   - [Text Classification with PyTorch](https://github.com/Joe-Naz01/text-classification-nlp/tree/main)
