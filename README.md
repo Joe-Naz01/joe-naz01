@@ -6,7 +6,8 @@ DATA SCIENCE AND MACHINE LEARNING
    - [Regression](https://github.com/Joe-Naz01/advertising-sales-regression)
    - [Fine Tuning](https://github.com/Joe-Naz01/fine_tuning_supervised)
 
-3. 
+2. Unsupervised learning in Python
+   - [Clustering](https://github.com/Joe-Naz01/clustering)
 
 
 LARGE LANGUAGE MODELS
