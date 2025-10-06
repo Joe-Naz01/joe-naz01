@@ -1,4 +1,7 @@
 ## Hi there 👋
+🎓 Data Science and Machine Learning Portfolio
+
+Welcome to my collection of applied Data Science and Machine Learning projects built using Python, scikit-learn, PyTorch, and transformer-based models. Each project demonstrates end-to-end workflows — from data preprocessing and feature engineering to model development, tuning, and interpretation.
 
 DATA SCIENCE AND MACHINE LEARNING 
 1. Supervised learning with scikit learn
