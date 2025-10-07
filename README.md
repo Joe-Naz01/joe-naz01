@@ -12,6 +12,7 @@ DATA SCIENCE AND MACHINE LEARNING
 2. Unsupervised learning in Python
    - [Clustering](https://github.com/Joe-Naz01/clustering)
    - [Hierarchical Clustering and t-SNE](https://github.com/Joe-Naz01/t-sne_cluster)
+   - [Dimensionality Reduction using PCA](https://github.com/Joe-Naz01/dimensionality-reduction)
 
 
 LARGE LANGUAGE MODELS
