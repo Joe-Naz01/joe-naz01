@@ -13,6 +13,9 @@ DATA SCIENCE AND MACHINE LEARNING
    - [Clustering](https://github.com/Joe-Naz01/clustering)
    - [Hierarchical Clustering and t-SNE](https://github.com/Joe-Naz01/t-sne_cluster)
    - [Dimensionality Reduction using PCA](https://github.com/Joe-Naz01/dimensionality-reduction)
+  
+3. Linear Classifiers in Python
+   - [Logistic Regression and SVM](https://github.com/Joe-Naz01/linear_classifiers)
 
 
 LARGE LANGUAGE MODELS
