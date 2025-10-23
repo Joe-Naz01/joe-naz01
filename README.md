@@ -16,6 +16,7 @@ DATA SCIENCE AND MACHINE LEARNING
   
 3. Linear Classifiers in Python
    - [Logistic Regression and SVM](https://github.com/Joe-Naz01/linear_classifiers)
+   - [Loss Functions](https://github.com/Joe-Naz01/loss_functions)
 
 
 LARGE LANGUAGE MODELS
