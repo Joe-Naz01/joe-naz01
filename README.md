@@ -21,8 +21,9 @@ DATA SCIENCE AND MACHINE LEARNING
 
 LARGE LANGUAGE MODELS
 1. Deep Learning for Text with Pytorch
-   - [Basis of Deep Learning with Pytorch](https://github.com/Joe-Naz01/text-preprocessing-pytorch)
+   - [Basics of Large Language Models](https://github.com/Joe-Naz01/llm_basics)
+   - [Basics of Deep Learning with Pytorch](https://github.com/Joe-Naz01/text-preprocessing-pytorch)
    - [Text Classification with PyTorch](https://github.com/Joe-Naz01/text-classification-nlp/tree/main)
 
-2. Llama Basics
+3. Llama Basics
    - [LLMs and Llama](https://github.com/Joe-Naz01/llm_llama)
