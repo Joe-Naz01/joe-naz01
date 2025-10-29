@@ -20,6 +20,8 @@ DATA SCIENCE AND MACHINE LEARNING
   
 4. Machine Learning for Time-Series Data in Python
    - [Machine Learning Primer and Time Series](https://github.com/Joe-Naz01/mlprimer_timeseries)
+   - [Time series as input to Model](https://github.com/Joe-Naz01/time_series)
+   - [Predicting time series data](https://github.com/Joe-Naz01/time_series_pred)
 
 
 LARGE LANGUAGE MODELS
