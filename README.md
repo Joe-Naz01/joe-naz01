@@ -34,6 +34,7 @@ LARGE LANGUAGE MODELS
 2. Deep Learning for Text with Pytorch
    - [Basics of Deep Learning with Pytorch](https://github.com/Joe-Naz01/text-preprocessing-pytorch)
    - [Text Classification with PyTorch](https://github.com/Joe-Naz01/text-classification-nlp/tree/main)
+   - [Text Generation with PyTorch](https://github.com/Joe-Naz01/pytorch_text_gem)
 
 3. Llama Basics
    - [LLMs and Llama](https://github.com/Joe-Naz01/llm_llama)
