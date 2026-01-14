@@ -17,6 +17,7 @@ DATA SCIENCE AND MACHINE LEARNING
 3. Linear Classifiers in Python
    - [Logistic Regression and SVM](https://github.com/Joe-Naz01/linear_classifiers)
    - [Loss Functions](https://github.com/Joe-Naz01/loss_functions)
+   - [Logistic Regression](https://github.com/Joe-Naz01/logistic_reg)
   
 4. Machine Learning for Time-Series Data in Python
    - [Machine Learning Primer and Time Series](https://github.com/Joe-Naz01/mlprimer_timeseries)
