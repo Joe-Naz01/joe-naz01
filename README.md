@@ -26,6 +26,9 @@ DATA SCIENCE AND MACHINE LEARNING
    - [Predicting time series data](https://github.com/Joe-Naz01/time_series_pred)
    - [Validating and Inspecting Time Series Model](https://github.com/Joe-Naz01/time_series_valid)
 
+5. Machine Learning with Tree-Based Models in Python
+   - [Classification and Regression Trees](https://github.com/Joe-Naz01/ml_tree)
+
 
 LARGE LANGUAGE MODELS
 1. Basics of LLMs in Python
