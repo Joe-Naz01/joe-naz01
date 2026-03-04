@@ -40,7 +40,7 @@ LARGE LANGUAGE MODELS
 2. Deep Learning for Text with Pytorch
    - [Basics of Deep Learning with Pytorch](https://github.com/Joe-Naz01/text-preprocessing-pytorch)
    - [Text Classification with PyTorch](https://github.com/Joe-Naz01/text-classification-nlp/tree/main)
-   - [Text Generation with PyTorch](The Building Blocks of Transformer Modelshttps://github.com/Joe-Naz01/pytorch_text_gem)
+   - [Text Generation with PyTorch](https://github.com/Joe-Naz01/pytorch_text_gem)
    - [Advanced Topics in Deep Learning with PyTorch](https://github.com/Joe-Naz01/advanced_dl)
   
 3. Transformer Models with PyTorch
