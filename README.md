@@ -45,6 +45,7 @@ LARGE LANGUAGE MODELS
   
 3. Transformer Models with PyTorch
    - [The Building Blocks of Transformer Models](https://github.com/Joe-Naz01/transformers)
+   - [Building Transformer Architectures](https://github.com/Joe-Naz01/encoder-decoder)
 
 5. Llama Basics
    - [LLMs and Llama](https://github.com/Joe-Naz01/llm_llama)
