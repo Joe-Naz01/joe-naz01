@@ -47,5 +47,6 @@ LARGE LANGUAGE MODELS
    - [The Building Blocks of Transformer Models](https://github.com/Joe-Naz01/transformers)
    - [Building Transformer Architectures](https://github.com/Joe-Naz01/encoder-decoder)
 
-5. Llama Basics
+5. Llama Fundamentals
    - [LLMs and Llama](https://github.com/Joe-Naz01/llm_llama)
+   - [Fine-Tuning with LLama 3](https://github.com/Joe-Naz01/SFTT_Trainer)
