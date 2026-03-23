@@ -28,6 +28,7 @@ DATA SCIENCE AND MACHINE LEARNING
 
 5. Machine Learning with Tree-Based Models in Python
    - [Classification and Regression Trees](https://github.com/Joe-Naz01/ml_tree)
+   - [The Bias-Variance Tradeoff](https://github.com/Joe-Naz01/bias_variance)
 
 
 
