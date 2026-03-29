@@ -51,3 +51,6 @@ LARGE LANGUAGE MODELS
 5. Llama Fundamentals
    - [LLMs and Llama](https://github.com/Joe-Naz01/llm_llama)
    - [Fine-Tuning with LLama 3](https://github.com/Joe-Naz01/SFTT_Trainer)
+
+6. Developing LLM Applications with LangChain
+   - [Introduction to LangChain & Chatbot Mechanics](https://github.com/Joe-Naz01/OpenAI)
