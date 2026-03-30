@@ -54,3 +54,4 @@ LARGE LANGUAGE MODELS
 
 6. Developing LLM Applications with LangChain
    - [Introduction to LangChain & Chatbot Mechanics](https://github.com/Joe-Naz01/OpenAI)
+   - [Chains and Agents](https://github.com/Joe-Naz01/seq_chains_ai)
