@@ -30,6 +30,7 @@ DATA SCIENCE AND MACHINE LEARNING
    - [Classification and Regression Trees](https://github.com/Joe-Naz01/ml_tree)
    - [The Bias-Variance Tradeoff](https://github.com/Joe-Naz01/bias_variance)
    - [Bagging and Random Forest](https://github.com/Joe-Naz01/bagging_random)
+   - [Boosting](https://github.com/Joe-Naz01/boosting)
 
 
 
