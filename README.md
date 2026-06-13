@@ -33,6 +33,8 @@ DATA SCIENCE AND MACHINE LEARNING
    - [Boosting](https://github.com/Joe-Naz01/boosting)
    - [Tuning](https://github.com/Joe-Naz01/tuning)
 
+6. Extreme Gradient Boosting with XGBoost
+   - [Classification with XGBoost](https://github.com/Joe-Naz01/xgboost_fit)
 
 
 LARGE LANGUAGE MODELS
