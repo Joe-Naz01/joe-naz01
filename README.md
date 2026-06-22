@@ -36,6 +36,7 @@ DATA SCIENCE AND MACHINE LEARNING
 6. Extreme Gradient Boosting with XGBoost
    - [Classification with XGBoost](https://github.com/Joe-Naz01/xgboost_fit)
    - [Regression with XGBoost](https://github.com/Joe-Naz01/xgboost_class)
+   - [Fine-tuning your XGBoost model](https://github.com/Joe-Naz01/xgboost_fine)
 
 
 LARGE LANGUAGE MODELS
